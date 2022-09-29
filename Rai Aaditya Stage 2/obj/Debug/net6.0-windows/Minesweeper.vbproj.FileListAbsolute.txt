@@ -1,0 +1,38 @@
+C:\Users\Aaditya Rai\source\repos\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.exe
+C:\Users\Aaditya Rai\source\repos\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.deps.json
+C:\Users\Aaditya Rai\source\repos\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.runtimeconfig.json
+C:\Users\Aaditya Rai\source\repos\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.dll
+C:\Users\Aaditya Rai\source\repos\Minesweeper\bin\Debug\net6.0-windows\ref\Minesweeper.dll
+C:\Users\Aaditya Rai\source\repos\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.pdb
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.vbproj.AssemblyReference.cache
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.vbproj.GenerateResource.cache
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfo.vb
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.vbproj.CoreCompileInputs.cache
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.dll
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\ref\Minesweeper.dll
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.pdb
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.genruntimeconfig.cache
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.frmStartup.resources
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.frmScoring.resources
+C:\Users\Aaditya Rai\source\repos\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.frmGame.resources
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\bin\Debug\net6.0-windows\Minesweeper.exe
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\bin\Debug\net6.0-windows\Minesweeper.deps.json
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\bin\Debug\net6.0-windows\Minesweeper.runtimeconfig.json
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\bin\Debug\net6.0-windows\Minesweeper.dll
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\bin\Debug\net6.0-windows\ref\Minesweeper.dll
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\bin\Debug\net6.0-windows\Minesweeper.pdb
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\Minesweeper.vbproj.AssemblyReference.cache
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\Minesweeper.frmGame.resources
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\Minesweeper.frmScoring.resources
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\Minesweeper.frmStartup.resources
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\Minesweeper.vbproj.GenerateResource.cache
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfo.vb
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\Minesweeper.vbproj.CoreCompileInputs.cache
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\Minesweeper.dll
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\ref\Minesweeper.dll
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\Minesweeper.pdb
+C:\Users\Aaditya Rai\source\repos\Rai Aaditya Stage 2\obj\Debug\net6.0-windows\Minesweeper.genruntimeconfig.cache
